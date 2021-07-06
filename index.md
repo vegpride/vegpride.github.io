@@ -1,3 +1,1 @@
-# VegPride
-
 ![VegPride](/vegpride.jpeg)
